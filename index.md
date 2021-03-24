@@ -6,6 +6,7 @@ Nama | Status | Terakhir Diperbarui | Demo | Repo
 -----|--------|---------------------|------|-----
 Pohon Silsilah | Ongoing | 2019 | [pohonsilsilah](http://pohonsilsilah.blogspot.com) | x
 Big O Story | Ongoing | 2019 | [bigostory](http://bigostory.blogspot.com) | x
+Cydia Repo | Done | Maret 2021 | [cydia](https://kva.github.io/cydia) | [/cydia](https://github.com/kva/cydia)
 
 ### Pohon Silsilah
 
@@ -17,12 +18,21 @@ Menggunakan:
 - JS
 
 ### Big O Story
+
 Kisah tentang O yang mencari kebahagiaan.
-Menggunakan
+Menggunakan:
 - SVG
 - XML
 - JS fullpage
 
+### Cydia Repository
+
+Menyimpan Theme dan Tweak iOS
+Menggunakan:
+- Bash
+- HTML
+- CSS
+- JS
 
 ```markdown
 Syntax highlighted code block
