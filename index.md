@@ -4,18 +4,26 @@ Berikut ini adalah daftar proyek yang sedang/telah aku selesaikan
 
 Nama | Status | Terakhir Diperbarui | Demo | Repo
 -----|--------|---------------------|------|-----
-Pohon Silsilah | Ongoing | 2019 | [pohonsilsilah.blogspot.com](http://pohonsilsilah.blogspot.com) | x
+Pohon Silsilah | Ongoing | 2019 | [pohonsilsilah](http://pohonsilsilah.blogspot.com) | x
+Big O Story | Ongoing | 2019 | [bigostory](http://bigostory.blogspot.com) | x
 
 ### Pohon Silsilah
 
 Menggambarkan silsilah keluargaku. 
-
 Menggunakan:
 - PHP
 - MySQL
 - CSS
 - JS
- 
+
+### Big O Story
+Kisah tentang O yang mencari kebahagiaan.
+Menggunakan
+- SVG
+- XML
+- JS fullpage
+
+
 ```markdown
 Syntax highlighted code block
 
